@@ -20,7 +20,7 @@ export const Gallery = () => {
           <div>
             <p className="text-mono-label text-primary mb-4">— 04 / Galeria</p>
             <h2 className="text-display text-4xl md:text-6xl font-bold leading-tight tracking-tight">
-              Resultados que <br /><span className="text-primary">refletem</span>.
+              Trabalhos <span className="text-primary">realizados</span>.
             </h2>
           </div>
           <a href="#agendar" className="text-mono-label text-foreground hover:text-primary transition-colors">

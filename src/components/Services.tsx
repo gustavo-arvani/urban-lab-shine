@@ -39,11 +39,11 @@ export const Services = () => {
           <div>
             <p className="text-mono-label text-primary mb-4">— 02 / Serviços</p>
             <h2 className="text-display text-4xl md:text-6xl font-bold leading-tight tracking-tight max-w-2xl">
-              Cada serviço é uma <span className="text-primary">obsessão</span> técnica.
+              Serviços técnicos de <span className="text-primary">estética</span> automotiva.
             </h2>
           </div>
           <p className="text-muted-foreground max-w-sm">
-            Procedimentos calibrados, produtos premium e um padrão de execução que respeita o tempo de cada veículo.
+            Procedimentos calibrados, produtos premium e padrão de execução consistente para cada veículo.
           </p>
         </div>
 

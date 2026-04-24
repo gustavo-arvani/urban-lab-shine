@@ -26,15 +26,16 @@ export const Hero = () => {
           <div className="lg:col-span-7">
             <p className="text-mono-label text-primary mb-6">— Urban Auto Detailing</p>
             <h1 className="text-display text-5xl md:text-7xl lg:text-8xl font-bold leading-[0.95] tracking-tight">
-              Onde o<br />
-              <span className="text-primary glow-text">asfalto</span>
+              Estética
               <br />
-              vira espelho.
+              <span className="text-primary glow-text">automotiva</span>
+              <br />
+              de precisão.
             </h1>
 
             <p className="mt-8 max-w-xl text-base md:text-lg text-muted-foreground leading-relaxed">
-              Estética automotiva de alta performance. Vitrificação cerâmica, polimento técnico,
-              PPF e cuidado obsessivo por cada detalhe — do farol ao escapamento.
+              Vitrificação cerâmica, polimento técnico, PPF e estética interior executados com
+              protocolo técnico, produtos certificados e padrão de acabamento consistente.
             </p>
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">

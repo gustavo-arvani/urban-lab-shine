@@ -25,7 +25,7 @@ export const Testimonials = () => {
         <div className="max-w-2xl mb-16">
           <p className="text-mono-label text-primary mb-4">— 05 / Depoimentos</p>
           <h2 className="text-display text-4xl md:text-6xl font-bold leading-tight tracking-tight">
-            A voz de quem <br /><span className="text-primary">sente</span> a diferença.
+            O que dizem <br />nossos <span className="text-primary">clientes</span>.
           </h2>
         </div>
 
