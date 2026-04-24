@@ -12,7 +12,7 @@ export const Process = () => {
         <div className="max-w-2xl mb-16">
           <p className="text-mono-label text-primary mb-4">— 03 / Processo</p>
           <h2 className="text-display text-4xl md:text-6xl font-bold leading-tight tracking-tight">
-            Um método. <br /><span className="text-primary">Quatro etapas.</span>
+            Nosso método em <span className="text-primary">quatro etapas.</span>
           </h2>
         </div>
 
