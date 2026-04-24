@@ -36,12 +36,12 @@ export const CTA = () => {
           <div>
             <p className="text-mono-label text-primary mb-4">— 06 / Agendar</p>
             <h2 className="text-display text-5xl md:text-7xl font-bold leading-[0.95] tracking-tight">
-              Pronto para <br />
-              <span className="text-primary glow-text">elevar</span> seu carro?
+              Agende sua <br />
+              <span className="text-primary glow-text">avaliação</span>.
             </h2>
             <p className="mt-8 text-muted-foreground max-w-md leading-relaxed">
-              Agende uma avaliação gratuita. Em 20 minutos definimos o protocolo ideal
-              para a sua pintura — sem pressão, com transparência total.
+              Avaliação técnica gratuita. Em cerca de 20 minutos definimos o protocolo ideal
+              para a sua pintura, com orçamento transparente e sem compromisso.
             </p>
 
             <div className="mt-10 space-y-5">
