@@ -23,7 +23,7 @@ export const Gallery = () => {
               Resultados que <br /><span className="text-primary">refletem</span>.
             </h2>
           </div>
-          <a href="#contato" className="text-mono-label text-foreground hover:text-primary transition-colors">
+          <a href="#agendar" className="text-mono-label text-foreground hover:text-primary transition-colors">
             Ver portfólio completo →
           </a>
         </div>

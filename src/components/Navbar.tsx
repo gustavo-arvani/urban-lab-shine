@@ -6,7 +6,7 @@ const links = [
   { label: "Processo", href: "#processo" },
   { label: "Galeria", href: "#galeria" },
   { label: "Depoimentos", href: "#depoimentos" },
-  { label: "Contato", href: "#contato" },
+  { label: "Agendar", href: "#agendar" },
 ];
 
 export const Navbar = () => {
@@ -36,7 +36,7 @@ export const Navbar = () => {
         </nav>
 
         <a
-          href="#contato"
+          href="#agendar"
           className="hidden md:inline-flex items-center gap-2 px-5 py-2 text-xs text-mono-label bg-primary text-primary-foreground hover:shadow-glow transition-smooth"
         >
           Agendar
@@ -65,7 +65,7 @@ export const Navbar = () => {
               </a>
             ))}
             <a
-              href="#contato"
+              href="#agendar"
               onClick={() => setOpen(false)}
               className="mt-2 text-center px-5 py-3 text-xs text-mono-label bg-primary text-primary-foreground"
             >
