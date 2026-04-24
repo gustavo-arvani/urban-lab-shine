@@ -14,15 +14,11 @@ export const Navbar = () => {
 
   return (
     <header className="fixed top-0 inset-x-0 z-50 backdrop-blur-xl bg-background/70 border-b border-border/60">
-      <div className="container-x flex h-16 items-center justify-between">
-        <a href="#" className="flex items-center gap-2 group">
-          <div className="relative h-8 w-8 grid place-items-center rounded-sm bg-grad-primary shadow-glow">
-            <span className="text-display font-bold text-primary-foreground text-sm">U</span>
-            <div className="absolute inset-0 rounded-sm ring-1 ring-primary/40" />
-          </div>
+      <div className="container-x flex h-20 items-center justify-between">
+        <a href="#" className="flex items-center group">
           <div className="leading-none">
-            <p className="text-display text-base font-bold tracking-tight">URBAN LAB</p>
-            <p className="text-mono-label text-[9px] text-muted-foreground mt-0.5">Auto Detailing</p>
+            <p className="text-display text-lg font-bold tracking-tight">URBAN AUTO</p>
+            <p className="text-mono-label text-[10px] text-muted-foreground mt-1 tracking-widest">Auto Detailing</p>
           </div>
         </a>
 
