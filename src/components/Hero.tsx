@@ -3,7 +3,7 @@ import { ArrowRight, Play } from "lucide-react";
 
 export const Hero = () => {
   return (
-    <section className="relative min-h-screen pt-16 overflow-hidden bg-hero">
+    <section className="relative min-h-screen pt-20 overflow-hidden bg-hero">
       {/* grid backdrop */}
       <div className="absolute inset-0 grid-bg opacity-40 [mask-image:radial-gradient(ellipse_at_center,black_20%,transparent_75%)]" />
 
@@ -12,7 +12,7 @@ export const Hero = () => {
         <div className="absolute inset-x-0 h-px bg-grad-primary opacity-60 animate-scan" />
       </div>
 
-      <div className="container-x relative pt-16 md:pt-24 pb-20">
+      <div className="container-x relative pt-24 md:pt-32 pb-20">
         {/* top meta strip */}
         <div className="flex items-center justify-between mb-10 text-mono-label text-muted-foreground">
           <div className="flex items-center gap-3">
@@ -24,7 +24,7 @@ export const Hero = () => {
 
         <div className="grid lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-7">
-            <p className="text-mono-label text-primary mb-6">— Urban Lab Auto Detailing</p>
+            <p className="text-mono-label text-primary mb-6">— Urban Auto Detailing</p>
             <h1 className="text-display text-5xl md:text-7xl lg:text-8xl font-bold leading-[0.95] tracking-tight">
               Onde o<br />
               <span className="relative">
