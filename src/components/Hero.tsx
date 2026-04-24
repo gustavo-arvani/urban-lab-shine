@@ -27,10 +27,7 @@ export const Hero = () => {
             <p className="text-mono-label text-primary mb-6">— Urban Auto Detailing</p>
             <h1 className="text-display text-5xl md:text-7xl lg:text-8xl font-bold leading-[0.95] tracking-tight">
               Onde o<br />
-              <span className="relative">
-                <span className="text-primary glow-text">asfalto</span>
-                <span className="absolute -bottom-2 left-0 h-1 w-full bg-grad-primary opacity-70" />
-              </span>
+              <span className="text-primary glow-text">asfalto</span>
               <br />
               vira espelho.
             </h1>

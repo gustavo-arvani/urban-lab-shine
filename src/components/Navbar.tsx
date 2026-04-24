@@ -6,7 +6,7 @@ const links = [
   { label: "Processo", href: "#processo" },
   { label: "Galeria", href: "#galeria" },
   { label: "Depoimentos", href: "#depoimentos" },
-  { label: "Contato", href: "#contato" },
+  { label: "Agendar", href: "#agendar" },
 ];
 
 export const Navbar = () => {
