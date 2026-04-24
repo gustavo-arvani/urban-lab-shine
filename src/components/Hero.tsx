@@ -39,7 +39,7 @@ export const Hero = () => {
 
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <a
-                href="#contato"
+                href="#agendar"
                 className="group inline-flex items-center justify-center gap-3 px-8 py-4 bg-primary text-primary-foreground text-mono-label hover:shadow-glow transition-smooth"
               >
                 Agende sua avaliação
