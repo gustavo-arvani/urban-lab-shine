@@ -67,7 +67,7 @@ export const Hero = () => {
             </div>
           </div>
 
-          <div className="lg:col-span-5 relative">
+          <div className="lg:col-span-5 relative max-w-sm mx-auto lg:max-w-none lg:mr-0 lg:ml-auto lg:w-[85%]">
             <div className="relative aspect-[4/5] overflow-hidden border border-border shadow-card-elev animate-float-slow">
               <img
                 src={heroCar}
